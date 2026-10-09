@@ -67,9 +67,6 @@ The digital library frontend is deployed and available online.
 
 The AI Identification component is experimental and currently requires a separately running backend. It is not a clinically or scientifically validated herbal-drug authentication system.
 
-## Screenshots and Demonstration
-
-Screenshots and a screen-recorded walkthrough will be added following the next round of project improvements.
 
 ## Academic Credits
 
