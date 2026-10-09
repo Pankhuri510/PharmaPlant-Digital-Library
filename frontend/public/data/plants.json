@@ -1,0 +1,144 @@
+[
+  {
+    "id": "cinchona",
+    "name": "Cinchona",
+    "scientificName": "Cinchona spp.",
+    "family": "Rubiaceae",
+    "synonyms": [
+      "Cinchona bark",
+      "Jesuit's bark",
+      "Peruvian bark"
+    ],
+    "source": "Dried bark of cultivated Cinchona species/hybrids as described in the supplied pharmacognosy material.",
+    "constituents": "Quinine, quinidine, cinchonine and cinchonidine.",
+    "uses": "Antimalarial and antipyretic.",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cinchona_officinalis_(DITSL).JPG",
+    "microscopy": [
+      "Periderm and cork",
+      "Secondary phloem",
+      "Phloem fibres",
+      "Calcium oxalate crystals",
+      "Powder microscopy"
+    ],
+    "description": "Study record focused on bark morphology, transverse section and diagnostic microscopy.",
+    "microscopyImages": [
+      "/data/microscopy/cinchona_01.png",
+      "/data/microscopy/cinchona_02.png",
+      "/data/microscopy/cinchona_03.png",
+      "/data/microscopy/cinchona_04.png",
+      "/data/microscopy/cinchona_05.png"
+    ]
+  },
+  {
+    "id": "cinnamon",
+    "name": "Cinnamon",
+    "scientificName": "Cinnamomum zeylanicum",
+    "family": "Lauraceae",
+    "synonyms": [
+      "Cinnamon bark",
+      "Kalmi-dalchini",
+      "Ceylon cinnamon"
+    ],
+    "source": "Dried bark of the shoots of coppiced trees, as described in the supplied material.",
+    "constituents": "Volatile oil, mainly cinnamic aldehyde, with eugenol, terpenes, mucilage, starch, calcium oxalate and tannin.",
+    "uses": "Carminative, flavouring agent, mild astringent, aromatic.",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cinnamon_(Cinnamomum_Verum-Lauraceae).JPG",
+    "microscopy": [
+      "Pericyclic fibres",
+      "Stone cells",
+      "Secondary phloem",
+      "Medullary rays",
+      "Oil cells",
+      "Powder microscopy"
+    ],
+    "description": "Study record focused on bark structure, lignified elements, oil cells and diagnostic tests.",
+    "microscopyImages": [
+      "/data/microscopy/cinnamon_01.png",
+      "/data/microscopy/cinnamon_02.png",
+      "/data/microscopy/cinnamon_03.png"
+    ]
+  },
+  {
+    "id": "clove",
+    "name": "Clove",
+    "scientificName": "Syzygium aromaticum",
+    "family": "Myrtaceae",
+    "synonyms": [
+      "Lavang"
+    ],
+    "source": "Dried flower buds, with clove oil, as described in the supplied pharmacognosy material.",
+    "constituents": "Eugenol, isoeugenol, methyl/dimethyl furfural, caryophyllene and hydrolysable tannins.",
+    "uses": "Carminative, aromatic, stimulant, antiseptic, flavouring agent and dental analgesic oil.",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Syzygium_aromaticum_on_tree.jpg",
+    "microscopy": [
+      "Epidermis",
+      "Schizolysigenous oil glands",
+      "Bicollateral vascular bundles",
+      "Aerenchyma",
+      "Columella",
+      "Powder microscopy"
+    ],
+    "description": "Study record focused on flower-bud anatomy, oil glands, vascular bundles and powder characters.",
+    "microscopyImages": [
+      "/data/microscopy/clove_01.png",
+      "/data/microscopy/clove_02.png"
+    ]
+  },
+  {
+    "id": "dill",
+    "name": "Dill",
+    "scientificName": "Anethum graveolens",
+    "family": "Apiaceae (Umbelliferae)",
+    "synonyms": [
+      "Fructus Anethi",
+      "European dill",
+      "Anethum"
+    ],
+    "source": "Dried ripe fruits of Anethum graveolens Linn., containing volatile oil.",
+    "constituents": "Volatile oil, with carvone and other components described in the supplied material.",
+    "uses": "Aromatic, stimulant, carminative and antiseptic.",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Anethumgraveolens.jpg",
+    "microscopy": [
+      "Epicarp",
+      "Mesocarp and vascular bundles",
+      "Vittae",
+      "Endocarp parquetry",
+      "Endosperm",
+      "Powder microscopy"
+    ],
+    "description": "Study record focused on fruit anatomy, vittae, endosperm and diagnostic powder characters.",
+    "microscopyImages": [
+      "/data/microscopy/dill_01.png",
+      "/data/microscopy/dill_02.png",
+      "/data/microscopy/dill_03.png",
+      "/data/microscopy/dill_04.png"
+    ]
+  },
+  {
+    "id": "ephedra",
+    "name": "Ephedra",
+    "scientificName": "Ephedra gerardiana",
+    "family": "Ephedraceae",
+    "synonyms": [
+      "Ma-Huang"
+    ],
+    "source": "Dried stems of Ephedra species described in the supplied material.",
+    "constituents": "Alkaloids including ephedrine.",
+    "uses": "Sympathomimetic uses are described in the supplied pharmacognosy material.",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ephedra_gerardiana_kz01.jpg",
+    "microscopy": [
+      "Epidermis and sunken stomata",
+      "Cortex",
+      "Lignified and unlignified fibres",
+      "Pericyclic fibres",
+      "Vascular bundle",
+      "Pith and powder microscopy"
+    ],
+    "description": "Study record focused on stem anatomy, ridges, fibres, vascular bundles and powder characters.",
+    "microscopyImages": [
+      "/data/microscopy/ephedra_01.png",
+      "/data/microscopy/ephedra_02.png",
+      "/data/microscopy/ephedra_03.png"
+    ]
+  }
+]
